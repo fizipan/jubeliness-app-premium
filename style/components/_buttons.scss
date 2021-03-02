@@ -1,0 +1,10 @@
+.btn-components {
+  background-color: #2b50b4;
+  color: white;
+  transition: all 0.3s;
+
+  &:hover {
+    background-color: #221e42;
+    color: white;
+  }
+}
